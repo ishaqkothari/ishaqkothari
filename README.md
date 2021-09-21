@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-
-**ishaqkothari/ishaqkothari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 - 🔭 I’m currently working on Machine Learning and Internet Application development
 - 🌱 I’m currently learning C and Mathematica
 - 😄 Pronouns: He/Him
